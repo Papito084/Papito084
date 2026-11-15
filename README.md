@@ -1,6 +1,7 @@
 # Hi there, I'm Alejandro Romero 👋
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121f80403c23adaf7)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73?style=flat&logo=fiverr&logoColor=white)](http://www.fiverr.com/s/d0ewya3)
 [![GitHub](https://img.shields.io/badge/GitHub-Papito084-181717?style=flat&logo=github&logoColor=white)](https://github.com/Papito084)
 [![Location](https://img.shields.io/badge/Location-M%C3%A1laga%2C%20Spain-blue?style=flat)]()
 
@@ -39,7 +40,8 @@ I design and build software, APIs, and business automations. Combining clear tec
 
 ---
 
-### 📬 Get in Touch
+### 📬 Get in Touch & Hire Me
 
-- 💼 **Freelance / Client Work:** [Work with me on Upwork](https://www.upwork.com/freelancers/~0121f80403c23adaf7)
+- 🟢 **Upwork:** [Work with me on Upwork](https://www.upwork.com/freelancers/~0121f80403c23adaf7)
+- 🟢 **Fiverr:** [Order my Python & Automation Gig](http://www.fiverr.com/s/d0ewya3)
 - 📍 Based in Málaga, Spain (CET) • Fluent English & Native Spanish
